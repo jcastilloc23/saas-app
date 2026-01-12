@@ -1,6 +1,6 @@
 export const subjects = [
   "maths",
-  "Lenguado",
+  "language",
   "science",
   "history",
   "coding",
