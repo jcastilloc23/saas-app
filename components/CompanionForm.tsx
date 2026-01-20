@@ -16,7 +16,7 @@ import {
 import { Input } from "@/components/ui/input"
 import { Select, SelectTrigger, SelectValue, SelectContent,  SelectItem } from "@/components/ui/select"
 import { subjects } from "@/constants"
-import { Textarea } from "./ui/textarea"
+import { Textarea } from "@/components/ui/textarea";
 import { redirect } from "next/navigation"
 
 const formSchema = z.object({
