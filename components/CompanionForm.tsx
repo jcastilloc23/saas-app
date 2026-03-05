@@ -1,5 +1,5 @@
 "use client"
-import { createCompanion } from "@/lib/action/companion.actions"
+import { createCompanion } from "@/lib/actions/companion.actions"
 
 import { zodResolver } from "@hookform/resolvers/zod"
 import { useForm } from "react-hook-form"
