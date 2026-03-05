@@ -31,7 +31,7 @@ CompanionCardProps) => {
             <p className="texsm">{duration} minutes</p>
         </div>
 
-        <Link href={`/companions?${id}`} className="w-full">
+        <Link href={`/companions/${id}`} className="w-full">
             <button className="btn-primary w-full justify-center">
                 Launch Lesson
             </button>
